@@ -36,6 +36,7 @@ namespace Trasher2.Controllers
         }
 
         // GET: Customers/Create
+
         public ActionResult Create()
         {
             return View();
@@ -59,6 +60,7 @@ namespace Trasher2.Controllers
         }
 
         // GET: Customers/Edit/5
+
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -90,6 +92,7 @@ namespace Trasher2.Controllers
         }
 
         // GET: Customers/Delete/5
+
         public ActionResult Delete(int? id)
         {
             if (id == null)
