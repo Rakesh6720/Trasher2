@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trasher2", "Trasher2\Trasher2.csproj", "{0FDC4898-8B2C-4D96-80DB-57859DF09289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDC4898-8B2C-4D96-80DB-57859DF09289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDC4898-8B2C-4D96-80DB-57859DF09289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDC4898-8B2C-4D96-80DB-57859DF09289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDC4898-8B2C-4D96-80DB-57859DF09289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98A4D75-7719-4309-B2CD-D029FAD4A9AD}
+	EndGlobalSection
+EndGlobal
